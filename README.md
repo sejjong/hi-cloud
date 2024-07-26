@@ -53,8 +53,6 @@ try:
         
         connection.commit()
         
-        print("데이터 추가 완료")
-        
 finally:
     connection.close()
 ```
