@@ -50,3 +50,6 @@ client.close()
 
 7. sudo docker ps -a 결과
 ![image](https://github.com/user-attachments/assets/22d8fb6e-63ae-45ac-b299-bb1edd33e2dd)
+
+8. sudo docker stats --no-stream 결과
+![image](https://github.com/user-attachments/assets/7fa87d60-6bfb-433e-9bdf-41253a5f7cbd)
