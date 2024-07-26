@@ -1,4 +1,4 @@
-# aws
+# April to-do
 
 1. 회원가입
 
@@ -58,3 +58,5 @@ try:
 finally:
     connection.close()
 ```
+
+# June to-do
