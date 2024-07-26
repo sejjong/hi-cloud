@@ -25,7 +25,7 @@ https://velog.io/@squarebird/AWS-RDS
 8. venv 에서 데이터 추가
 ![image](https://github.com/user-attachments/assets/1b4e7fd7-7148-453b-a579-430cb9b26324)
 
-\\\python
+```python
 import pymysql
 
 host = "database-1.cpeweyygc27i.ap-southeast-2.rds.amazonaws.com"
@@ -57,5 +57,4 @@ try:
         
 finally:
     connection.close()
-
-\\\
+```
